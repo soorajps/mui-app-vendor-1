@@ -8,12 +8,9 @@ function App() {
       <MaterialLayout>
         <iframe
           width="100%"
-          src="http://localhost:3000/"
           title="Introduction To WiseGPT"
           frameborder="0"
-          height={1000}
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          height={1100}
         ></iframe>
       </MaterialLayout>
     </div>
