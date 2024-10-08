@@ -8,6 +8,7 @@ function App() {
       <MaterialLayout>
         <iframe
           width="100%"
+          src="http://localhost:3000?ccode=ptel"
           title="Introduction To WiseGPT"
           frameborder="0"
           height={1100}
